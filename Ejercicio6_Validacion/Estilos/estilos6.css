@@ -1,0 +1,17 @@
+/* Estilos básicos para la página */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+/* Estado inválido: Borde rojo si está vacío o el formato de correo es incorrecto */
+input:required:invalid {
+    border: 2px solid red;
+    outline: none;
+}
+
+/* Estado válido: Borde verde cuando el formato del correo es correcto */
+input:required:valid {
+    border: 2px solid green;
+    outline: none;
+}
