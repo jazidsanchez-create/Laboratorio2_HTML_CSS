@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 5 - Estructura Semántica HTML5</title>
+    <link rel="stylesheet" href="Estilos/estilos5.css">
+</head>
+<body>
+
+    <!-- Encabezado Principal -->
+    <header>
+        <h1>Portal de Noticias de Ciberseguridad</h1>
+        <p>Laboratorio #2 - Maquetación Semántica en HTML5</p>
+    </header>
+
+    <!-- Menú de Navegación -->
+    <nav>
+        <ul>
+            <li><a href="#">Inicio</a></li>
+            <li><a href="#">Noticias</a></li>
+            <li><a href="#">Seguridad Web</a></li>
+            <li><a href="#">Contacto</a></li>
+        </ul>
+    </nav>
+
+    <!-- Contenedor Principal (Flexbox para organizar contenido y barra lateral) -->
+    <div class="contenedor">
+
+        <!-- Sección de Contenido Principal -->
+        <section>
+            <article>
+                <h2>La importancia del uso de Etiquetas Semánticas en HTML5</h2>
+                <p><strong>Por: Jazid Sánchez | Fecha: 7 de septiembre de 2026</strong></p>
+                <p>
+                    El uso de etiquetas semánticas en HTML5 como <code>&lt;header&gt;</code>, <code>&lt;nav&gt;</code>, 
+                    <code>&lt;article&gt;</code> y <code>&lt;footer&gt;</code> permite estructurar los documentos web con un significado claro, 
+                    tanto para los desarrolladores como para los motores de búsqueda y lectores de pantalla.
+                </p>
+                <p>
+                    A diferencia del uso indiscriminado de divisiones genéricas (<code>&lt;div&gt;</code>), las etiquetas semánticas 
+                    mejoran la accesibilidad web, facilitan el posicionamiento SEO y permiten un mantenimiento de código más eficiente en proyectos colaborativos.
+                </p>
+            </article>
+
+            <article>
+                <h2>Buenas Prácticas en el Desarrollo Web</h2>
+                <p>
+                    Separar la estructura del contenido (HTML) de la presentación visual (CSS) es fundamental para garantizar páginas escalables y adaptables a múltiples dispositivos.
+                </p>
+            </article>
+        </section>
+
+        <!-- Barra Lateral con Contenido Complementario -->
+        <aside>
+            <h3>Recursos Destacados</h3>
+            <ul>
+                <li><a href="#">Guía de CSS3 Grid y Flexbox</a></li>
+                <li><a href="#">Validación de Formularios</a></li>
+                <li><a href="#">Estándares del W3C</a></li>
+            </ul>
+            <hr>
+            <h3>Aviso</h3>
+            <p>Laboratorio desarrollado para la asignatura de Desarrollo Web en la UTP.</p>
+        </aside>
+
+    </div>
+
+    <!-- Pie de Página -->
+    <footer>
+        <p>&copy; 2026 Universidad Tecnológica de Panamá - Facultad de Ingeniería de Sistemas Computacionales</p>
+        <p>Desarrollado por Jazid Sánchez & Elizabeth Acevedo</p>
+    </footer>
+
+</body>
+</html>
