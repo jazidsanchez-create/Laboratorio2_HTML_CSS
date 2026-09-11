@@ -1,10 +1,10 @@
 # Laboratorio #2
-Fecha: 07/09/2026
+Fecha: 11/09/2026
 
-## Contenido del Repositorio
+## 📄 Contenido del Repositorio
 Este repositorio contiene el desarrollo de las soluciones prácticas del **Laboratorio #2**, enfocado en la maquetación web estructurada mediante HTML5, vincular e implementar hojas de estilo CSS3 externas, diseño de tablas estilizadas con clases alternadas, maquetación semántica y la creación de formularios web con validación nativa.
 
-## Tecnologías Utilizadas
+## 🛠️ Tecnologías Utilizadas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Apache](https://img.shields.io/badge/APACHE-D22128?style=for-the-badge&logo=apache&logoColor=white)
@@ -13,7 +13,7 @@ Este repositorio contiene el desarrollo de las soluciones prácticas del **Labor
 * **Lenguaje:** HTML5, CSS3
 * **Herramientas:** Git, WampServer, Visual Studio Code
 
-## Capturas de Pantalla y Problemas
+## 📸 Capturas de Pantalla y Problemas
 
 ### Interfaz Principal
 *(Incluir captura de pantalla del proyecto funcionando en el navegador local)*
@@ -25,7 +25,7 @@ Este repositorio contiene el desarrollo de las soluciones prácticas del **Labor
 * **Ejercicio 5 / Estructura Semantica:** Maquetación web completa utilizando etiquetas semánticas de HTML5 (`<header>`, `<nav>`, `<section>`, `<article>`, `<aside>`, `<footer>`).
 * **Ejercicio 6 / Validacion:** Formulario con validación nativa de correo electrónico mediante el atributo `required` y reglas de respuesta visual en CSS3 (`:invalid`, `:valid`).
 
-## Estructura de Carpetas o Directorios
+## 📁 Estructura de Carpetas o Directorios
 
 ```plaintext
 Laboratorio2_HTML_CSS/
@@ -38,20 +38,15 @@ Laboratorio2_HTML_CSS/
 └── README.md # Documentación del proyecto
 
 ## 🚀 Instrucciones de Ejecución / Uso
-
-Pasos y comandos específicos para arrancar la aplicación:
-
-1. Clonar el repositorio.
-2. Configurar el entorno local.
-3. Ejecutar el comando de arranque.
-
-## 👨‍💻 Autor y Contexto
-
-* Nombre: Jazid Sánchez
-* Institución: Universidad Tecnológica de Panamá (UTP)
-* Fecha de Realización: 11/09/2026
-
-## 📖 Referencias
-
-* [Video de Apoyo](#)
-* [Win32OpenSSL](#)
+ 42  
+ 43  Pasos y comandos específicos para arrancar la aplicación:
+ 44  
+ 45  1. Clonar el repositorio.
+ 46  2. Configurar el entorno local.
+ 47  3. Ejecutar el comando de arranque.
+ 48  
+ 49  ## 👨‍💻 Autor y Contexto
+ 50  
+ 51  * **Nombre:** Jazid Sánchez
+ 52  * **Institución:** Universidad Tecnológica de Panamá (UTP)
+ 53  * **Fecha de Realización:** 11/09/2026
