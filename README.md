@@ -36,30 +36,22 @@ Laboratorio2_HTML_CSS/
 ├── Ejercicio5_EstructuraSemantica/ # Maquetación semántica HTML5
 ├── Ejercicio6_Validacion/ # Formulario y validación CSS/HTML5
 └── README.md # Documentación del proyecto
-Instrucciones de Ejecución / Uso
-Clonar el repositorio localmente dentro de la carpeta del servidor local:
 
-Bash
-git clone [https://github.com/jazidsanchez-create/Laboratorio2_HTML_CSS.git](https://github.com/jazidsanchez-create/Laboratorio2_HTML_CSS.git)
-Configurar el entorno local abriendo WampServer o XAMPP e iniciando los servicios de Apache.
+## 🚀 Instrucciones de Ejecución / Uso
 
-Abrir el navegador e ingresar a la URL local de ejecución:
-http://localhost/Laboratorio2_HTML_CSS/
+Pasos y comandos específicos para arrancar la aplicación:
 
-Autor y Contexto
-Nombre: Jazid Sánchez
+1. Clonar el repositorio.
+2. Configurar el entorno local.
+3. Ejecutar el comando de arranque.
 
-Institución: Universidad Tecnológica de Panamá (UTP)
+## 👨‍💻 Autor y Contexto
 
-Facultad: Facultad de Ingeniería de Sistemas Computacionales
+* Nombre: Jazid Sánchez
+* Institución: Universidad Tecnológica de Panamá (UTP)
+* Fecha de Realización: 11/09/2026
 
-Carrera: Licenciatura en Ciberseguridad
+## 📖 Referencias
 
-Fecha de Realización: 07/09/2026
-
-Referencias
-Documentación Oficial de MDN - HTML5 Semántico
-
-Documentación Oficial de MDN - Hojas de Estilo CSS3
-
-Video de Apoyo: Guía de configuración de entorno de desarrollo web en WampServer
+* [Video de Apoyo](#)
+* [Win32OpenSSL](#)
