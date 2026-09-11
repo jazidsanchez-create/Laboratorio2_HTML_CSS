@@ -1,54 +1,65 @@
-# 🧺 Laboratorio #2 - HTML5 y CSS3
+# Laboratorio #2
+Fecha: 07/09/2026
 
-Este repositorio contiene varios ejemplos prácticos en **HTML5 y CSS3** para aprender y reforzar conceptos fundamentales de maquetación web, tales como:
+## Contenido del Repositorio
+Este repositorio contiene el desarrollo de las soluciones prácticas del **Laboratorio #2**, enfocado en la maquetación web estructurada mediante HTML5, vincular e implementar hojas de estilo CSS3 externas, diseño de tablas estilizadas con clases alternadas, maquetación semántica y la creación de formularios web con validación nativa.
 
-* Estructuración base de tablas de datos (`<table>`, `<tr>`, `<td>`, `<th>`)
-* Vinculación de hojas de estilos externas (`CSS3`) y favicon (`<link>`)
-* Aplicación de clases CSS alternadas (`.modo1` / `.modo2`)
-* Formato de párrafos, texto y navegación entre páginas
-* Maquetación semántica de HTML5 (`<header>`, `<nav>`, `<section>`, `<footer>`)
-* Validación nativa de formularios HTML5 y pseudoclases CSS (`:invalid` / `:valid`)
-
----
-
-## 🌐 Tecnologías utilizadas
-
+## Tecnologías Utilizadas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Apache](https://img.shields.io/badge/APACHE-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![WampServer](https://img.shields.io/badge/WAMPSERVER-005A9C?style=for-the-badge&logo=wampserver&logoColor=white)
 
----
+* **Lenguaje:** HTML5, CSS3
+* **Herramientas:** Git, WampServer, Visual Studio Code
 
-## ⚙️ Requisitos
+## Capturas de Pantalla y Problemas
 
-Para ejecutar los ejemplos necesitas un entorno local de servidor web con soporte para **WampServer** o **XAMPP** (ecosistema de desarrollo). Estos paquetes permiten instalar de forma rápida un **stack de desarrollo** que incluye servidor web y herramientas para probar los ejercicios de forma local.
+### Interfaz Principal
+*(Incluir captura de pantalla del proyecto funcionando en el navegador local)*
 
-📌 **Nota:** Estos entornos no son servidores en sí mismos, sino paquetes que contienen servidores y herramientas para simular un servidor web de forma local.
+* **Ejercicio 1 / Tablas Base:** Creación de la estructura base de tablas de datos en HTML5 utilizando las etiquetas `<table>`, `<tr>` y `<td>`.
+* **Ejercicio 2 / Tablas con Estilos:** Aplicación de hojas de estilos externas (CSS3) a tablas con clases alternadas (`.modo1`, `.modo2`) para mejorar la presentación visual.
+* **Ejercicio 3 / Párrafos:** Estructuración de textos y párrafos maquetados para asegurar la legibilidad del contenido.
+* **Ejercicio 4 / Navegacion:** Implementación de barras de navegación y enlaces entre páginas web.
+* **Ejercicio 5 / Estructura Semantica:** Maquetación web completa utilizando etiquetas semánticas de HTML5 (`<header>`, `<nav>`, `<section>`, `<article>`, `<aside>`, `<footer>`).
+* **Ejercicio 6 / Validacion:** Formulario con validación nativa de correo electrónico mediante el atributo `required` y reglas de respuesta visual en CSS3 (`:invalid`, `:valid`).
 
-**Editor de Código:**
+## Estructura de Carpetas o Directorios
 
-* Visual Studio Code
+```plaintext
+Laboratorio2_HTML_CSS/
+├── Ejercicio1_Tablas/ # Estructura base de tablas en HTML
+├── Ejercicio2_TabasEstilos/ # Estilos CSS para tablas
+├── Ejercicio3_Parrafos/ # Formato de párrafos y textos
+├── Ejercicio4_Navegacion/ # Enlaces y barra de navegación
+├── Ejercicio5_EstructuraSemantica/ # Maquetación semántica HTML5
+├── Ejercicio6_Validacion/ # Formulario y validación CSS/HTML5
+└── README.md # Documentación del proyecto
+Instrucciones de Ejecución / Uso
+Clonar el repositorio localmente dentro de la carpeta del servidor local:
 
----
+Bash
+git clone [https://github.com/jazidsanchez-create/Laboratorio2_HTML_CSS.git](https://github.com/jazidsanchez-create/Laboratorio2_HTML_CSS.git)
+Configurar el entorno local abriendo WampServer o XAMPP e iniciando los servicios de Apache.
 
-## 🛠️ Cómo usar este repositorio
+Abrir el navegador e ingresar a la URL local de ejecución:
+http://localhost/Laboratorio2_HTML_CSS/
 
-1. Descarga o clona el repositorio, ubica una carpeta en `www` para WampServer o `htdocs` si es XAMPP:
+Autor y Contexto
+Nombre: Jazid Sánchez
 
-   ```bash
-   git clone [https://github.com/jazidsanchez-create/Laboratorio2_HTML_CSS.git](https://github.com/jazidsanchez-create/Laboratorio2_HTML_CSS.git)
-Para correrlos edita la URL de tu navegador:
+Institución: Universidad Tecnológica de Panamá (UTP)
 
-http://127.0.0.1/Laboratorio2_HTML_CSS/ o http://localhost/Laboratorio2_HTML_CSS/
+Facultad: Facultad de Ingeniería de Sistemas Computacionales
 
-👨‍💻 Autor
-Jazid Sánchez
+Carrera: Licenciatura en Ciberseguridad
 
-Estudiante de Licenciatura en Ciberseguridad
+Fecha de Realización: 07/09/2026
 
-Universidad Tecnológica de Panamá - Facultad de Ingeniería de Sistemas Computacionales
+Referencias
+Documentación Oficial de MDN - HTML5 Semántico
 
-📧 Email: jazid.sanchez@utp.ac.pa
+Documentación Oficial de MDN - Hojas de Estilo CSS3
 
-🌐 GitHub: https://github.com/jazidsanchez-create
+Video de Apoyo: Guía de configuración de entorno de desarrollo web en WampServer
