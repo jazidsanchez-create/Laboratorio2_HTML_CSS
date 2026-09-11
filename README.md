@@ -36,17 +36,24 @@ Laboratorio2_HTML_CSS/
 ├── Ejercicio5_EstructuraSemantica/ # Maquetación semántica HTML5
 ├── Ejercicio6_Validacion/ # Formulario y validación CSS/HTML5
 └── README.md # Documentación del proyecto
-
+```
 ## 🚀 Instrucciones de Ejecución / Uso
- 42  
- 43  Pasos y comandos específicos para arrancar la aplicación:
- 44  
- 45  1. Clonar el repositorio.
- 46  2. Configurar el entorno local.
- 47  3. Ejecutar el comando de arranque.
- 48  
- 49  ## 👨‍💻 Autor y Contexto
- 50  
- 51  * **Nombre:** Jazid Sánchez
- 52  * **Institución:** Universidad Tecnológica de Panamá (UTP)
- 53  * **Fecha de Realización:** 11/09/2026
+Pasos y comandos específicos para arrancar la aplicación:
+
+Clonar el repositorio.
+
+Configurar el entorno local.
+
+Ejecutar el comando de arranque.
+
+## 👨‍💻 Autor y Contexto
+Nombre: Jazid Sánchez
+
+Institución: Universidad Tecnológica de Panamá (UTP)
+
+Fecha de Realización: 11/09/2026
+
+## 📖 Referencias
+Video de Apoyo
+
+Win32OpenSSL
